@@ -1,0 +1,7 @@
+body{
+    background: #ffdca2;
+    background-image: url('../img/mango_logo.png');
+    background-position-y: 150%;
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
